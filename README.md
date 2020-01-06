@@ -12,3 +12,4 @@ HackerRank Tutorial , started on 1st Jan 2020
 | practice- 5 |loops.py | [python using loops](https://www.hackerrank.com/challenges/python-loops/problem) |
 | practice- 6 |function.py | [python Function](https://www.hackerrank.com/challenges/write-a-function/problem) |
 | practice- 7 |printfunc.py | [print function](https://www.hackerrank.com/challenges/python-print/problem) |
+| practice- 8 |ListComprehensions.py | [list -Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) |
