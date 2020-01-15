@@ -16,3 +16,5 @@ HackerRank Tutorial , started on 1st Jan 2020
 | practice- 9 |Runner-Up score.py | [RunnerUp score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) |
 | practice- 10|nested-list.py | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) |
 | practice- 11|FindPercenatge.py | [find the percenatges](https://www.hackerrank.com/challenges/finding-the-percentage/problem) |
+| practice- 12|Lists.py | [Lists , used its methods](https://www.hackerrank.com/challenges/python-lists/problem) |
+
