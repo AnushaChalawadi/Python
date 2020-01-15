@@ -14,3 +14,4 @@ HackerRank Tutorial , started on 1st Jan 2020
 | practice- 7 |printfunc.py | [print function](https://www.hackerrank.com/challenges/python-print/problem) |
 | practice- 8 |ListComprehensions.py | [list -Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) |
 | practice- 9 |Runner-Up score.py | [RunnerUp score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) |
+| practice- 10|nested-list.py | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) |
